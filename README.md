@@ -1,4 +1,4 @@
-## [HYU] 2018_1학기_컴퓨터알고리즘
+## [HYU] 2018_1학기_컴퓨터알고리즘기초
 
 2018 1st Semester Computer Algorithm Lecture Lab Collections
 
