@@ -22,3 +22,13 @@ This Lecture uses C Language and Microsoft Visual Studio Code
 | Lab3_Simple_Hashing | Simple Hashing Implementation |
 | Lab3_Perfect_Hashing | **(Incomplete)** Perfect Hashing Implementation |
 | Lab4 | Huffman Encoding & Decoding Implementation |
+
+&nbsp;
+--------
+
+The source code of *mintplo* is primarily distributed under the terms
+of the [GNU Affero General Public License v3.0] or any later version. See
+[COPYRIGHT] for details.
+
+[GNU Affero General Public License v3.0]: LICENSE
+[COPYRIGHT]: COPYRIGHT
